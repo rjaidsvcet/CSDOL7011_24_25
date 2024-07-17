@@ -1,4 +1,4 @@
-# CSDOL7011 - Natural Language Processing Lab - A.Y. 2024-25
+# CSDOL7011 - NLP Lab - A.Y. 2024-25
 CSDOL7011 important experiments in Natural Language Processing Lab with their implementations. 
 
 List of experiments is as follows :
